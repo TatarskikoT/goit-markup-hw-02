@@ -190,9 +190,21 @@ header {
 .projects-title {
   display: none;
 }
-.project-title {}
+.project-title {
+    font-size: 18px;
+        line-height: calc(36/18);
+        letter-spacing: 0.06em;
+    
+        color: #212121;
+}
 
-.project-type {}
+.project-type {
+    font-size: 16px;
+        line-height: calc(30/16);
+        letter-spacing: 0.03em;
+    
+        color: #757575;
+}
 
 /*-----------------------footer--------------------------*/
 
