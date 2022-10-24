@@ -187,11 +187,9 @@ header {
    color: #ffffff;
     background-color: #2196F3;
 }
-
-.section-title {}
-
-.projects-title {}
-
+.projects-title {
+  display: none;
+}
 .project-title {}
 
 .project-type {}
