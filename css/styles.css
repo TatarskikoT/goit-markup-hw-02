@@ -10,8 +10,8 @@ body {
   font-size: 14px;
   line-height: calc(24 / 14);
   letter-spacing: 0.03em;
-  color: #757575;
-  background-color: #ffffff;
+  color: var(--main-text-color);
+  background-color: var(--secondary-accent-color);
 }
 .list {
   list-style: none;
@@ -107,7 +107,7 @@ body {
   background-color: #2f303a;
 }
 .logo-footer {
-  color: #ffffff;
+  color: var(--secondary-accent-color);
 }
 .address {
   color: var(--secondary-accent-color);
@@ -121,7 +121,7 @@ body {
 }
 .button {
   color: var(--secondary-text-color);
-  background-color: #f5f4fa;
+  background-color: var(--secondary-accent-color);
 }
 .button:hover,
 .button:focus {
