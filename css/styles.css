@@ -48,6 +48,9 @@ body {
   font-weight: 500;
   color: var(--secondary-text-color);
 }
+.nav .link.current {
+  color: var(--accent-color);
+}
 .header-contacts .link {
   font-weight: 500;
 }
