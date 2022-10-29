@@ -1,9 +1,8 @@
 :root {
-  --main-text-color: #757575;
+  --primary-text-color: #757575;
   --secondary-text-color: #212121;
   --accent-color: #2196f3;
-  --secondary-accent-color: #ffffff;
-  --main-background-color: #ffffff;
+  --primary-white-color: #ffffff;
   --secondary-background-color: ##2f303a;
 }
 
@@ -12,8 +11,8 @@ body {
   font-size: 14px;
   line-height: calc(24 / 14);
   letter-spacing: 0.03em;
-  color: var(--main-text-color);
-  background-color: var(--main-background-color);
+  color: var(--primary-text-color);
+  background-color: var(--primary-white-color);
 }
 .list {
   list-style: none;
