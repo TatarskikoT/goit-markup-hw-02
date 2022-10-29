@@ -70,7 +70,7 @@ body {
   letter-spacing: 0.06em;
   text-transform: uppercase;
 
-  color: var(--secondary-accent-color);
+  color: var(--primary-white-color);
 }
 /* -------------------section-------------- */
 .sectoin-title {
@@ -115,10 +115,10 @@ body {
   background-color: #2f303a;
 }
 .logo-footer {
-  color: var(--secondary-accent-color);
+  color: var(--primary-white-color);
 }
 .address {
-  color: var(--secondary-accent-color);
+  color: var(--primary-white-color);
 }
 .footer-contact {
   color: rgba(255, 255, 255, 0.6);
@@ -129,11 +129,11 @@ body {
 }
 .button {
   color: var(--secondary-text-color);
-  background-color: var(--secondary-accent-color);
+  background-color: var(--primary-white-color);
 }
 .button:hover,
 .button:focus {
-  color: var(--secondary-accent-color);
+  color: var(--primary-white-color);
   background-color: var(--accent-color);
 }
 .link:hover,
