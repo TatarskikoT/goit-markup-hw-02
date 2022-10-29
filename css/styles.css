@@ -128,7 +128,7 @@ body {
   color: var(--secondary-text-color);
 }
 .button {
-  font-family: iherit;
+  font-family: inherit;
   color: var(--secondary-text-color);
   background-color: var(--primary-white-color);
 }
